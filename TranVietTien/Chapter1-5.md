@@ -74,9 +74,9 @@ b) Khi đầu vào của hàm là mảng null thì hàm chưa chạy được, n
     
 c) Nếu trong mảng đầu vào không có giá trị bằng 0:
 
-   Đầu vào: x = [1, 2, 3]
-   Kết quả dự kiến: 3
-   Kết quả thực tế: 3
+    Đầu vào: x = [1, 2, 3]
+    Kết quả dự kiến: 3
+    Kết quả thực tế: 3
     
 d) Với chương trình đề bài cho thì với mọi giá trị đầu vào thì kết quả có thể xuất hiện lỗi trong (error) hoặc lỗi ngoài (failure).
 
@@ -109,6 +109,7 @@ c) Nếu trong mảng đầu vào không có giá trị nào âm:
 d) Với chương trình đề bài cho thì mọi giá trị đầu vào thì kết quả có thể xuất hiện lỗi trong (error) hoặc lỗi ngoài (failure).
 
 e) Khi trong mảng đầu vào của hàm có 1 phần tử với i lẻ và có giá trị âm
+    
     Đầu vào: x = [-1, 0, -2, 3, 2]
     Kết quả dự kiến: 2
     Kết quả thực tế: 1
